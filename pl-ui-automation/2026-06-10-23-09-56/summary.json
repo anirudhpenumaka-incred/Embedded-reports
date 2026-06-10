@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-10T23:09:56.308Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 68458.16500000001,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-10-23-09-56/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleA @negative RA-03 customer Proprietorship but Karza says other → Rule A REJECT",
+      "status": "passed",
+      "durationMs": 66299,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
