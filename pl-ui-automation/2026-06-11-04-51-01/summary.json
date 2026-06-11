@@ -1,0 +1,150 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "FAILED",
+  "runAt": "2026-06-11T04:51:01.392Z",
+  "total": 22,
+  "passed": 7,
+  "failed": 14,
+  "skipped": 1,
+  "flaky": 0,
+  "passRate": 33,
+  "durationMs": 3031122.042,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-11-04-51-01/",
+  "specs": [
+    {
+      "title": "A1 — Tier-1 PASS (name matches bank) → Completed, no CPA",
+      "status": "failed",
+      "durationMs": 148166,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A2 — Tier-1 fail → Tier-2 PASS via GSTIN → Completed, no CPA",
+      "status": "failed",
+      "durationMs": 132129,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A3 — Tier-1 fail → Tier-2 FAIL via GSTIN → CPA",
+      "status": "passed",
+      "durationMs": 179932,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A4 — Tier-1 fail → Tier-2 PASS no GSTIN (max across pool) → Completed",
+      "status": "failed",
+      "durationMs": 152556,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A7 — business_name typed in Create must NOT rescue → CPA",
+      "status": "passed",
+      "durationMs": 126963,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A5 — Tier-1 fail → no GSTIN → all names fail → CPA",
+      "status": "passed",
+      "durationMs": 128726,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A6 — GSTIN sent but NOT in soft-pull → app rejected (GSTIN mismatch with Soft Pull)",
+      "status": "failed",
+      "durationMs": 68965,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "B1 — Flipkart SALARIED → old logic (Retry), no CPA",
+      "status": "failed",
+      "durationMs": 131314,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "B2 — Non-Flipkart (Paytm) → old logic (Retry), no CPA",
+      "status": "failed",
+      "durationMs": 470387,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E1 — RESULT: Tier-1 PASS (name matches) → Completed, no CPA",
+      "status": "failed",
+      "durationMs": 138207,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E2 — RESULT: Tier-1 fail → Tier-2 PASS via GSTIN → Completed, no CPA",
+      "status": "failed",
+      "durationMs": 143925,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E3 — RESULT: Tier-1 fail → Tier-2 FAIL via GSTIN → CPA",
+      "status": "failed",
+      "durationMs": 139036,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E4 — RESULT: Tier-1 fail → Tier-2 PASS no GSTIN (max across pool) → Completed",
+      "status": "failed",
+      "durationMs": 132402,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E5 — RESULT: Tier-1 fail → no GSTIN → all names fail → CPA",
+      "status": "failed",
+      "durationMs": 128068,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E7 — RESULT: business_name typed in Create must NOT rescue → CPA",
+      "status": "failed",
+      "durationMs": 137499,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "C1 — duplicate init on same account → returns existing txn, no new penny",
+      "status": "passed",
+      "durationMs": 115101,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "C2 — fail (CPA) → fix customer name → retry passes (Completed)",
+      "status": "passed",
+      "durationMs": 123059,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "C3 — account number mismatch on init → ACCOUNT_MISMATCH error",
+      "status": "failed",
+      "durationMs": 77281,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "C4 — primary score exactly at threshold → PASS [BLOCKED OQ-1 / `>` vs `>=`]",
+      "status": "skipped",
+      "durationMs": 0,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "D1 — result with matching account_holder_name → status true",
+      "status": "passed",
+      "durationMs": 125529,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "D2 — result with mismatching name → still status true (recorded, not rejected)",
+      "status": "passed",
+      "durationMs": 132066,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "D3 — result with account mismatch → ACCOUNT_MISMATCH error",
+      "status": "failed",
+      "durationMs": 78320,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
