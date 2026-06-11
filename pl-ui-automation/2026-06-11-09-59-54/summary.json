@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-11T09:59:54.076Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 188469.21600000001,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-11-09-59-54/",
+  "specs": [
+    {
+      "title": "E1 — RESULT: Tier-1 PASS (name matches) → Completed, no CPA",
+      "status": "passed",
+      "durationMs": 186482,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
