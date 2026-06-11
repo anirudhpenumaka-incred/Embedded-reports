@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "FAILED",
+  "runAt": "2026-06-11T04:30:11.802Z",
+  "total": 1,
+  "passed": 0,
+  "failed": 1,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 0,
+  "durationMs": 154095.277,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-11-04-30-11/",
+  "specs": [
+    {
+      "title": "A1 — Tier-1 PASS (name matches bank) → Completed, no CPA",
+      "status": "failed",
+      "durationMs": 151282,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
