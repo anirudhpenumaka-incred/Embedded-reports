@@ -1,0 +1,36 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "FAILED",
+  "runAt": "2026-06-11T11:25:09.439Z",
+  "total": 3,
+  "passed": 2,
+  "failed": 1,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 67,
+  "durationMs": 319805.559,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-11-11-25-09/",
+  "specs": [
+    {
+      "title": "D1 — result with matching account_holder_name → status true",
+      "status": "passed",
+      "durationMs": 114083,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "D2 — result with mismatching name → still status true (recorded, not rejected)",
+      "status": "passed",
+      "durationMs": 119600,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "D3 — result with account mismatch → ACCOUNT_MISMATCH error",
+      "status": "failed",
+      "durationMs": 84377,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
