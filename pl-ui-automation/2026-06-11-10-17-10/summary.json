@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-11T10:17:10.292Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 188750.294,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-11-10-17-10/",
+  "specs": [
+    {
+      "title": "E4 — RESULT: Tier-1 fail → Tier-2 PASS no GSTIN (max across pool) → Completed",
+      "status": "passed",
+      "durationMs": 187078,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
