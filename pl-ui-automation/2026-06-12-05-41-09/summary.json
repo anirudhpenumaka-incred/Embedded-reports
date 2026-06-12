@@ -1,0 +1,36 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T05:41:09.046Z",
+  "total": 3,
+  "passed": 2,
+  "failed": 0,
+  "skipped": 1,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 220128.76700000002,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-05-41-09/",
+  "specs": [
+    {
+      "title": "@os-2254 @pcsm @positive PCSM-01 all 7 GST PCSM slots populated with correct values [matched]",
+      "status": "passed",
+      "durationMs": 114561,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @pcsm @edge PCSM-02 boolean encoding: true→1, false→2 (not 0) [stub]",
+      "status": "skipped",
+      "durationMs": 162,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @pcsm @edge PCSM-03 same 7 slots also present in downstream OMNI_PRE/HC/POST",
+      "status": "passed",
+      "durationMs": 103735,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
