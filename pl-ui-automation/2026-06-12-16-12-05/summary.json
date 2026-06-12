@@ -1,0 +1,60 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T16:12:05.762Z",
+  "total": 7,
+  "passed": 7,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 1644437.161,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-16-12-05/",
+  "specs": [
+    {
+      "title": "E1 — RESULT: Tier-1 PASS (name matches) → Completed, no CPA",
+      "status": "passed",
+      "durationMs": 231133,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E2 — RESULT: Tier-1 fail → Tier-2 PASS via GSTIN → Completed, no CPA",
+      "status": "passed",
+      "durationMs": 215945,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E3 — RESULT: Tier-1 fail → Tier-2 FAIL via GSTIN → CPA",
+      "status": "passed",
+      "durationMs": 173919,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E4 — RESULT: Tier-1 fail → Tier-2 PASS no GSTIN (max across pool) → Completed",
+      "status": "passed",
+      "durationMs": 213135,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E5 — RESULT: Tier-1 fail → no GSTIN → all names fail → CPA",
+      "status": "passed",
+      "durationMs": 179314,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E7 — RESULT: business_name typed in Create must NOT rescue → CPA",
+      "status": "passed",
+      "durationMs": 194162,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "E8 — RESULT: Tier-1 fail → no GSTIN → all names PASS → No CPA",
+      "status": "passed",
+      "durationMs": 434746,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
