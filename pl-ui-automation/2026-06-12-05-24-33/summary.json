@@ -1,0 +1,66 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "FAILED",
+  "runAt": "2026-06-12T05:24:33.990Z",
+  "total": 8,
+  "passed": 4,
+  "failed": 4,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 50,
+  "durationMs": 628496.193,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-05-24-33/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleC @negative RC-01 income<15000, no turnover → Rule C REJECT",
+      "status": "passed",
+      "durationMs": 68064,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @edge RC-02 income<15000 but turnover slab lifts it → no Rule C reject",
+      "status": "failed",
+      "durationMs": 48047,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @edge RC-03 income exactly 15000 → boundary, no Rule C reject",
+      "status": "passed",
+      "durationMs": 113988,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @positive RC-04 income 50000 → Rule C never applies",
+      "status": "passed",
+      "durationMs": 113070,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @edge RC-05 income<15000 + top slab 'Rs.500 Cr. and above' (capped at 500 Cr) → derived ~4.16 Cr/mo ≥ 15000 → NO Rule C reject",
+      "status": "failed",
+      "durationMs": 46763,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @negative RC-06 income 0 (lowest) + no turnover → both 0 < 15000 → Rule C REJECT",
+      "status": "failed",
+      "durationMs": 77825,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @edge RC-07 income 15001 (just above boundary) + no turnover → NO Rule C reject",
+      "status": "passed",
+      "durationMs": 105216,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleC @edge RC-08 income<15000 + mid slab 'Rs.1.5 Cr. to 5 Cr.' → derived 4,16,667 ≥ 15000 → NO Rule C reject",
+      "status": "failed",
+      "durationMs": 48231,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
