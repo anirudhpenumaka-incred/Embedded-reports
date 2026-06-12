@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T11:09:01.444Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 47362.869,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-11-09-01/",
+  "specs": [
+    {
+      "title": "A6 — GSTIN sent but NOT in soft-pull → app rejected (GSTIN mismatch with Soft Pull)",
+      "status": "passed",
+      "durationMs": 45706,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
