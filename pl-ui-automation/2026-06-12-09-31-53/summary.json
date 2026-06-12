@@ -1,0 +1,42 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T09:31:53.697Z",
+  "total": 4,
+  "passed": 3,
+  "failed": 0,
+  "skipped": 1,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 245664.866,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-09-31-53/",
+  "specs": [
+    {
+      "title": "@os-2254 @kfail @edge KFAIL-01 Karza 5xx → GST checks skipped, other rules still run (proceeds)",
+      "status": "passed",
+      "durationMs": 111976,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @kfail @negative KFAIL-02 Karza fails + customer business_type wrong → still Rule A REJECT",
+      "status": "passed",
+      "durationMs": 65341,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @kfail @negative KFAIL-03 Karza fails + income too low → still Rule C REJECT",
+      "status": "passed",
+      "durationMs": 66133,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @kfail @edge KFAIL-04 Karza timeout → same bypass as a 5xx failure [stub]",
+      "status": "skipped",
+      "durationMs": 159,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
