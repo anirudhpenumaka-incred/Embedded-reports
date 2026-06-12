@@ -1,0 +1,36 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T15:30:39.754Z",
+  "total": 3,
+  "passed": 2,
+  "failed": 0,
+  "skipped": 1,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 284328.362,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-15-30-39/",
+  "specs": [
+    {
+      "title": "C1 — duplicate init on same account → returns existing txn, no new penny",
+      "status": "passed",
+      "durationMs": 133168,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "C2 — fail (CPA) → fix customer name → retry passes (Completed)",
+      "status": "passed",
+      "durationMs": 149085,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "C4 — primary score exactly at threshold → PASS [BLOCKED OQ-1 / `>` vs `>=`]",
+      "status": "skipped",
+      "durationMs": 0,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
