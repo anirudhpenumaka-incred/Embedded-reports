@@ -63,3 +63,4 @@
 | 2026-06-12-11-04-15 | pl-ui-automation | [open](./pl-ui-automation/2026-06-12-11-04-15/) |
 | 2026-06-12-11-09-01 | pl-ui-automation | [open](./pl-ui-automation/2026-06-12-11-09-01/) |
 | 2026-06-12-11-11-55 | pl-ui-automation | [open](./pl-ui-automation/2026-06-12-11-11-55/) |
+| 2026-06-12-18-16-07 | pl-api-automation | [open](./pl-api-automation/2026-06-12-18-16-07/) |
