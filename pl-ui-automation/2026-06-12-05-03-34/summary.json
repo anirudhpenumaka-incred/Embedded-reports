@@ -1,0 +1,42 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T05:03:34.520Z",
+  "total": 4,
+  "passed": 3,
+  "failed": 0,
+  "skipped": 1,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 282211.137,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-05-03-34/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleR0 @negative R0-01 GSTIN mismatch → rejection reason says GST_MISMATCH (not generic)",
+      "status": "passed",
+      "durationMs": 103206,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @positive STR02-01 match → Karza businessType overrides the customer's value",
+      "status": "passed",
+      "durationMs": 112435,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @edge STR02-02 no GSTIN/no match → customer's value kept as-is",
+      "status": "passed",
+      "durationMs": 64658,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @edge STR02-03 Karza fails → customer's value kept as-is [stub]",
+      "status": "skipped",
+      "durationMs": 182,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
