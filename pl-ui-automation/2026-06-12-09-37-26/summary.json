@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T09:37:26.139Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 107700.482,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-09-37-26/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleB @positive RB-02 Karza says NOT defaulter → no reject, isDefaulter encoded as 2 (not 0)",
+      "status": "passed",
+      "durationMs": 105753,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
