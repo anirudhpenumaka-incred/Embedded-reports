@@ -1,0 +1,78 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T04:36:28.818Z",
+  "total": 10,
+  "passed": 10,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 971929.4110000001,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-04-36-28/",
+  "specs": [
+    {
+      "title": "@os-2254 @match @positive MATCH-01 GSTIN matches Karza → application proceeds",
+      "status": "passed",
+      "durationMs": 106348,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @match @negative MATCH-02 GSTIN does NOT match → Rule 0 REJECT",
+      "status": "passed",
+      "durationMs": 102167,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @match @edge MATCH-03 no GSTIN typed → mismatch/defaulter checks skipped",
+      "status": "passed",
+      "durationMs": 104884,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @match @negative MATCH-04 proper GSTIN + WRONG business type (Partnership) → Rule A REJECT (create-side fires even with matching GSTIN)",
+      "status": "passed",
+      "durationMs": 63546,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @match @negative MATCH-05 WRONG GSTIN + WRONG business type → both wrong; Rule 0 (GST_MISMATCH) pre-empts (rejects before OMNI_1)",
+      "status": "passed",
+      "durationMs": 103013,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @match @negative MATCH-06 WRONG GSTIN + empty business type → Rule 0 REJECT (GST_MISMATCH)",
+      "status": "passed",
+      "durationMs": 102603,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @ruleR0 @negative R0-01 GSTIN mismatch → rejection reason says GST_MISMATCH (not generic)",
+      "status": "passed",
+      "durationMs": 107292,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @pcsm @positive PCSM-01 all 7 GST PCSM slots populated with correct values [matched]",
+      "status": "passed",
+      "durationMs": 109631,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @positive STR02-01 match → Karza businessType overrides the customer's value",
+      "status": "passed",
+      "durationMs": 105768,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @edge STR02-02 no GSTIN/no match → customer's value kept as-is",
+      "status": "passed",
+      "durationMs": 64884,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}

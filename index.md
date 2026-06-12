@@ -39,3 +39,4 @@
 | 2026-06-12-08-40-24 | pl-api-automation | [open](./pl-api-automation/2026-06-12-08-40-24/) |
 | 2026-06-12-08-44-04 | pl-api-automation | [open](./pl-api-automation/2026-06-12-08-44-04/) |
 | 2026-06-12-09-41-41 | pl-api-automation | [open](./pl-api-automation/2026-06-12-09-41-41/) |
+| 2026-06-12-04-36-28 | pl-ui-automation | [open](./pl-ui-automation/2026-06-12-04-36-28/) |
