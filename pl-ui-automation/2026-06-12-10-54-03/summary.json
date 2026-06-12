@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T10:54:03.081Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 188137.045,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-10-54-03/",
+  "specs": [
+    {
+      "title": "A3 — Tier-1 fail → Tier-2 FAIL via GSTIN → Retry (not CPA for INIT)",
+      "status": "passed",
+      "durationMs": 186414,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
