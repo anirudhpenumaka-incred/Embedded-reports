@@ -1,0 +1,30 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T09:23:31.992Z",
+  "total": 2,
+  "passed": 2,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 213559.873,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-09-23-31/",
+  "specs": [
+    {
+      "title": "@os-2254 @gate @edge GATE-01 non-Flipkart (Paytm) SELFEMP → Karza NOT called",
+      "status": "passed",
+      "durationMs": 107934,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @gate @edge GATE-02 Flipkart SALARIED → Karza NOT called",
+      "status": "passed",
+      "durationMs": 103639,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
