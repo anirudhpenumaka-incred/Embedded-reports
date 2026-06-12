@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-12T09:42:54.181Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 69567.51699999999,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-12-09-42-54/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleA @negative RA-02 customer typed Partnership → Rule A REJECT",
+      "status": "passed",
+      "durationMs": 67636,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
