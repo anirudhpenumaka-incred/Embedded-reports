@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-15T20:23:08.819Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 113569.46399999999,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-15-20-23-08/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleC @edge RC-05 income<15000 + top slab 'Rs.500 Cr. and above' (capped at 500 Cr) → derived ~4.16 Cr/mo ≥ 15000 → NO Rule C reject",
+      "status": "passed",
+      "durationMs": 111436,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
