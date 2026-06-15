@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-15T19:48:41.840Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 123324.22,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-15-19-48-41/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleC @edge RC-03 income exactly 15000 → boundary, no Rule C reject",
+      "status": "passed",
+      "durationMs": 121378,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
