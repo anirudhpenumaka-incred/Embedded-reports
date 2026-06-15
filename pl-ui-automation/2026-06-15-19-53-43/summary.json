@@ -1,0 +1,54 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-15T19:53:43.822Z",
+  "total": 6,
+  "passed": 6,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 625777.604,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-15-19-53-43/",
+  "specs": [
+    {
+      "title": "@os-2254 @pcsm @positive PCSM-01 all 7 GST PCSM slots populated with correct values [matched]",
+      "status": "passed",
+      "durationMs": 104978,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @pcsm @edge PCSM-02 boolean encoding: true→1, false→2 (not 0) [stub]",
+      "status": "passed",
+      "durationMs": 106747,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @pcsm @edge PCSM-03 same 7 slots also present in downstream OMNI_PRE/HC/POST",
+      "status": "passed",
+      "durationMs": 103525,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @positive STR02-01 match → Karza businessType overrides the customer's value",
+      "status": "passed",
+      "durationMs": 134122,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @edge STR02-02 no GSTIN/no match → customer's value kept as-is",
+      "status": "passed",
+      "durationMs": 66491,
+      "file": "Flipkart_OS_2254.spec.js"
+    },
+    {
+      "title": "@os-2254 @str02 @edge STR02-03 Karza fails → customer's value kept as-is [stub]",
+      "status": "passed",
+      "durationMs": 107875,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
