@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-15T20:28:30.189Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 110430.79,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-15-20-28-30/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleC @positive RC-04 income 50000 → Rule C never applies",
+      "status": "passed",
+      "durationMs": 108799,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
