@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-15T20:33:18.354Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 67947.79,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-15-20-33-18/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleC @negative RC-01 income<15000, no turnover → Rule C REJECT",
+      "status": "passed",
+      "durationMs": 65887,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
