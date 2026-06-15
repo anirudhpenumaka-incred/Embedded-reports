@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-15T20:25:48.892Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 105752.84199999999,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-15-20-25-48/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleC @edge RC-02 income<15000 but turnover slab lifts it → no Rule C reject",
+      "status": "passed",
+      "durationMs": 104136,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
