@@ -1,0 +1,60 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-16T07:22:27.446Z",
+  "total": 7,
+  "passed": 6,
+  "failed": 0,
+  "skipped": 1,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 1142409.93,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-16-07-22-27/",
+  "specs": [
+    {
+      "title": "A1 — Tier-1 PASS (name matches bank) → Completed, penny status should not be failed",
+      "status": "passed",
+      "durationMs": 227203,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A2 — Tier-1 fail → Tier-2 PASS via GSTIN → Completed, penny status should not be failed",
+      "status": "passed",
+      "durationMs": 209609,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A3 — Tier-1 fail → Tier-2 FAIL via GSTIN → Retry (not CPA for INIT)",
+      "status": "passed",
+      "durationMs": 196473,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A4 — Tier-1 fail → Tier-2 PASS no GSTIN → Completed, penny status should not be failed",
+      "status": "passed",
+      "durationMs": 254829,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A7 — business_name typed in Create must NOT rescue → Retry (not CPA for INIT)",
+      "status": "passed",
+      "durationMs": 203148,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A5 — Tier-1 fail → no GSTIN → all names fail → Retry (not CPA for INIT)",
+      "status": "skipped",
+      "durationMs": 168,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "A6 — GSTIN sent but NOT in soft-pull → app rejected (GSTIN mismatch with Soft Pull)",
+      "status": "passed",
+      "durationMs": 49182,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
