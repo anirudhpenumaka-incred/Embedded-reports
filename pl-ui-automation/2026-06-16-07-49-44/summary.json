@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-16T07:49:44.311Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 116194.679,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-16-07-49-44/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleA @edge RA-05 KARZA IS blank → Rule A does not apply",
+      "status": "passed",
+      "durationMs": 114525,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
