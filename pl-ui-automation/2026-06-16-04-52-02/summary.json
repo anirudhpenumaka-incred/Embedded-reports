@@ -1,0 +1,30 @@
+{
+  "suite": "Flipkart_OS_2258_penny.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-16T04:52:02.222Z",
+  "total": 2,
+  "passed": 2,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 422669.487,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-16-04-52-02/",
+  "specs": [
+    {
+      "title": "B1 — Flipkart SALARIED → old logic (no cascade, no CPA)",
+      "status": "passed",
+      "durationMs": 230191,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    },
+    {
+      "title": "B2 — Non-Flipkart (Paytm) → old logic (no cascade, no CPA)",
+      "status": "passed",
+      "durationMs": 190339,
+      "file": "Flipkart_OS_2258_penny.spec.js"
+    }
+  ]
+}
