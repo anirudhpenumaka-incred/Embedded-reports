@@ -1,0 +1,24 @@
+{
+  "suite": "Flipkart_OS_2254.spec.js",
+  "env": "—",
+  "partner": "—",
+  "grep": "—",
+  "status": "PASSED",
+  "runAt": "2026-06-16T06:44:49.943Z",
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "passRate": 100,
+  "durationMs": 69788.754,
+  "reportUrl": "https://anirudhpenumaka-incred.github.io/Embedded-reports/pl-ui-automation/2026-06-16-06-44-49/",
+  "specs": [
+    {
+      "title": "@os-2254 @ruleB @negative RB-01 Karza says defaulter → Rule B REJECT [stub]",
+      "status": "passed",
+      "durationMs": 68279,
+      "file": "Flipkart_OS_2254.spec.js"
+    }
+  ]
+}
